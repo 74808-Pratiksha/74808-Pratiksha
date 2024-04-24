@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Pratiksha Channe
+- 👀 I’m interested in data science, machine learning, and natural language processing.
+- 🌱 I’m currently learning deep learning techniques and advanced data visualization.
+- 💞️ I’m looking to collaborate on projects related to healthcare analytics and predictive modeling.
+- 📫 How to reach me: You can reach me via email at pratuchanne@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I'm also passionate about photography and enjoy capturing landscapes in my free time. I love hiking and exploring new trails whenever I get the chance!
